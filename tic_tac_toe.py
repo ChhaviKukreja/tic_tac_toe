@@ -1,4 +1,4 @@
-Change your start page? … Currently it's set to Home. You can change it anytime in Settings.
+
 def tictactoe_grid(value):
     print("\n")
     print("\t      |      |")
